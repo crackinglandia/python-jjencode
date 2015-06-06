@@ -1,5 +1,5 @@
 # python-jjencode
-Python port from Yosuke's HASEGAWA (@hasegawayosuke) JJencoder
+Python port from Yosuke's HASEGAWA (@hasegawayosuke) JJencoder (http://utf-8.jp/public/jjencode.html)
 
 # How to use it
 ```python
